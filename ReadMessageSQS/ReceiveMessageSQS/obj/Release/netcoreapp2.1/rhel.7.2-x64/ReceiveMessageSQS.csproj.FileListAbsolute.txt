@@ -1,0 +1,11 @@
+C:\Projetos\MessagesSqs\ReceiveMessageSQS\bin\Release\netcoreapp2.1\rhel.7.2-x64\ReceiveMessageSQS.deps.json
+C:\Projetos\MessagesSqs\ReceiveMessageSQS\bin\Release\netcoreapp2.1\rhel.7.2-x64\ReceiveMessageSQS.runtimeconfig.json
+C:\Projetos\MessagesSqs\ReceiveMessageSQS\bin\Release\netcoreapp2.1\rhel.7.2-x64\ReceiveMessageSQS.runtimeconfig.dev.json
+C:\Projetos\MessagesSqs\ReceiveMessageSQS\bin\Release\netcoreapp2.1\rhel.7.2-x64\ReceiveMessageSQS.dll
+C:\Projetos\MessagesSqs\ReceiveMessageSQS\bin\Release\netcoreapp2.1\rhel.7.2-x64\ReceiveMessageSQS.pdb
+C:\Projetos\MessagesSqs\ReceiveMessageSQS\obj\Release\netcoreapp2.1\rhel.7.2-x64\ReceiveMessageSQS.csprojAssemblyReference.cache
+C:\Projetos\MessagesSqs\ReceiveMessageSQS\obj\Release\netcoreapp2.1\rhel.7.2-x64\ReceiveMessageSQS.csproj.CoreCompileInputs.cache
+C:\Projetos\MessagesSqs\ReceiveMessageSQS\obj\Release\netcoreapp2.1\rhel.7.2-x64\ReceiveMessageSQS.AssemblyInfoInputs.cache
+C:\Projetos\MessagesSqs\ReceiveMessageSQS\obj\Release\netcoreapp2.1\rhel.7.2-x64\ReceiveMessageSQS.AssemblyInfo.cs
+C:\Projetos\MessagesSqs\ReceiveMessageSQS\obj\Release\netcoreapp2.1\rhel.7.2-x64\ReceiveMessageSQS.dll
+C:\Projetos\MessagesSqs\ReceiveMessageSQS\obj\Release\netcoreapp2.1\rhel.7.2-x64\ReceiveMessageSQS.pdb

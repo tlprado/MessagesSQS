@@ -1,0 +1,11 @@
+C:\Projetos\MessagesSqs\ReceiveMessageSQS\bin\Debug\netcoreapp2.1\ReceiveMessageSQS.deps.json
+C:\Projetos\MessagesSqs\ReceiveMessageSQS\bin\Debug\netcoreapp2.1\ReceiveMessageSQS.runtimeconfig.json
+C:\Projetos\MessagesSqs\ReceiveMessageSQS\bin\Debug\netcoreapp2.1\ReceiveMessageSQS.runtimeconfig.dev.json
+C:\Projetos\MessagesSqs\ReceiveMessageSQS\bin\Debug\netcoreapp2.1\ReceiveMessageSQS.dll
+C:\Projetos\MessagesSqs\ReceiveMessageSQS\obj\Debug\netcoreapp2.1\ReceiveMessageSQS.csprojAssemblyReference.cache
+C:\Projetos\MessagesSqs\ReceiveMessageSQS\obj\Debug\netcoreapp2.1\ReceiveMessageSQS.csproj.CoreCompileInputs.cache
+C:\Projetos\MessagesSqs\ReceiveMessageSQS\obj\Debug\netcoreapp2.1\ReceiveMessageSQS.AssemblyInfoInputs.cache
+C:\Projetos\MessagesSqs\ReceiveMessageSQS\obj\Debug\netcoreapp2.1\ReceiveMessageSQS.AssemblyInfo.cs
+C:\Projetos\MessagesSqs\ReceiveMessageSQS\bin\Debug\netcoreapp2.1\ReceiveMessageSQS.pdb
+C:\Projetos\MessagesSqs\ReceiveMessageSQS\obj\Debug\netcoreapp2.1\ReceiveMessageSQS.dll
+C:\Projetos\MessagesSqs\ReceiveMessageSQS\obj\Debug\netcoreapp2.1\ReceiveMessageSQS.pdb
